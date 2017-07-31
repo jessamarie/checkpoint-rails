@@ -13,6 +13,6 @@ Post.create(
 )
 
 Post.create(
-  content: "This is better content",
+  content: "This is far better content",
   is_published: false
 )
